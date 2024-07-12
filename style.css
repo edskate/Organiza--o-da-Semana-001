@@ -1,0 +1,12 @@
+body{
+    background-color: darkslategray;
+    margin: 20px;
+}
+h1{
+    color: brown;
+    text-shadow: 2px 3px 4px #000;
+}
+h2{
+    color: rgb(8, 8, 65);
+    text-shadow: 1px 2px 3px #000;
+}
